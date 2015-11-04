@@ -1,0 +1,19 @@
+p {
+  color:blue;
+}
+.redStuff{
+  color:red;
+}
+#secondP{
+  background-color: yellow;
+  color:blue;
+}
+p > span {
+  border:dotted;
+}
+p > span {
+  border-color:green;
+}
+#cat{
+ filter: blur(100%);
+}
