@@ -14,6 +14,3 @@ p > span {
 p > span {
   border-color:green;
 }
-#cat{
- filter: blur(100%);
-}
